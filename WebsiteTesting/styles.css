@@ -1,26 +1,25 @@
-/* styles.css */
-
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #3d379f;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #d42c59;
+    color: #c7df16; 
     padding: 1em;
     text-align: center;
 }
 
 nav a {
-    color: #fff;
+    color: #2dbc1a; 
     margin: 0 1em;
     text-decoration: none;
 }
 
 main {
+    color: #fafafa; 
     padding: 2em;
 }
 
